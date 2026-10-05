@@ -1,0 +1,7 @@
+.vscode/
+
+build/
+build-debug/
+build-release/
+
+results/*.json
